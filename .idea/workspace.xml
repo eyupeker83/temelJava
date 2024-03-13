@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="540b06e8-38d9-49ff-88ce-a3ac54e9673d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="540b06e8-38d9-49ff-88ce-a3ac54e9673d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DaireninAlani">
+  <component name="RunManager" selected="Application.VucutKitleIndex">
     <configuration name="DaireninAlani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireninAlani" />
       <module name="JavaJava" />
@@ -80,8 +78,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucutKitleIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucutKitleIndex" />
+      <module name="JavaJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VucutKitleIndex" />
         <item itemvalue="Application.DaireninAlani" />
         <item itemvalue="Application.UcgeninHipotenusunuBulanPrg" />
         <item itemvalue="Application.KdvHesaplama" />
@@ -98,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710228600115</updated>
       <workItem from="1710228601107" duration="6023000" />
-      <workItem from="1710309297648" duration="2470000" />
+      <workItem from="1710309297648" duration="2989000" />
     </task>
     <servers />
   </component>
